@@ -18,3 +18,5 @@ window-ime-switch-ko 는 windows 환경에서 한국어 혹은 영어 입력기�
 settings.json 에 위와 같이 설정한다면 정상적으로 작동합니다.
 
 ## 시연 영상 및 코드 해설
+
+[![Video Label](http://img.youtube.com/vi/rw2ArEHxmk8/0.jpg)](https://youtu.be/rw2ArEHxmk8)
